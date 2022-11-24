@@ -1,16 +1,17 @@
 ---
 layout: post
-title:  "That day when we almost missed our flight"
+title:  "우리가 비행기를 놓칠 뻔했던 날"
 author: yubin
-categories: [ Travel, Lifestyle ]
+categories: [ 여행, 라이프스타일 ]
 image: assets/images/17.jpg
 ---
-The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
 
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll... originated with us”. 
+적어도 미국에서 직선적인 형식에서 벗어난 최초의 대량 생산된 책은 이 1863년판 레드 라이딩 후드로 생각되며, 발밑에 성가신 늑대가 웅크린 채 주인공 자신의 모습을 하고 있습니다. 보스턴에 본사를 둔 출판사 루이스 프랑이 제작한 이 책은 모양 책으로도 알려진 다섯 권의 "다이컷" 책 세트의 첫 번째 작품입니다. 다른 제목은 로빈슨 크루소, 구디 투 슈즈(레드 라이딩 후드 작가 리디아 베리도 작성), 신데렐라, 킹 윈터입니다. 
 
-> It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
+1868년에 출판된 프랑의 카탈로그는 나중에 "일반 종이 인형 모양의 책"이라고 주장했습니다. 우리와 함께 시작되었습니다." 
 
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
+> 우리가 더 빨리 아무것도 찾을 수 없기 때문에, 그 주장은 일반적으로 다이컷 책으로 확장될 수도 있는 것처럼 보이지만, 만약 당신이 이것에 대해 더 밝힐 수 있는 빛이 있다면 우리에게 댓글로 알려주세요! 물론 그러한 책들은 오늘날의 어린이 출판에서 여전히 인기가 있지만, 같은 빨간 모자 이야기의 아름다운 2014년 버전에서 증명된 것처럼 주사위 절단은 이제 단순한 윤곽에 국한되지 않습니다. 
 
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
+다이컷은 또한 청소년이 아닌 영역에서도 사용되었는데, 최근의 예는 조나단 사프란 포어의 야심찬 코드의 나무입니다. 
+
+찰스 페로의 고전 이야기의 이 특별한 표현에 대해서 말하자면, 본문과 디자인은 초월주의 시인 존스 베리의 여동생인 리디아 베리 (1823-1901)에 의한 것입니다. 빨간 모자가 그녀의 할머니뿐만 아니라 게걸스럽게 먹히는 것을 보는 원작의 소름끼치는 결말은 여기서 피하고, 고어는 도덕 이야기의 덜 피비린내 나는 목표에 양보하며, 어머니를 거역해서는 안 된다는 교훈을 얻습니다.

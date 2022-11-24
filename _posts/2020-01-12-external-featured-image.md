@@ -1,23 +1,23 @@
 ---
 layout: post
-title:  "Memoirs supports external images as featured"
+title:  "Memoirs는 외부 이미지를 특징으로 지원합니다."
 author: yubin
-categories: [ Lifestyle, Travel ]
-tags: [ France ]
+categories: [ 라이프스타일, 여행 ]
+tags: [ 프랑스 ]
 image: "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80"
 ---
 
-Adding images is a very annoying task, I know that, but "Memoirs" theme has external featured images integrated so your publishing task becomes easier now.
+이미지를 추가하는 것은 매우 성가신 작업이라는 것을 알고 있지만 "Memoirs" 테마에는 외부 추천 이미지가 통합되어 있어 게시 작업이 더 쉬워졌습니다.
 
-Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one's self is very difficult. 
+교육은 또한 빠르고 단호하며 효과적인 사고를 훈련해야 합니다. 예리하게 생각하고 자신을 위해 생각하는 것은 매우 어렵습니다.
 
-> We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically. 
+> 우리는 우리의 정신 생활이 반쪽짜리 진실, 편견, 선전의 군단에 의해 침범당하도록 내버려 두는 경향이 있습니다. 이쯤 되면 교육이 과연 그 목적을 달성하고 있는지 의문이 든다. 소위 교육받은 사람들의 대다수는 논리적이고 과학적으로 생각하지 않습니다.
 
-Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.
+언론, 강의실, 강단, 강단에서도 객관적이고 편견 없는 진실을 주지 못하는 경우가 많습니다. 내 생각에는 선전의 늪에서 사람을 구하는 것이 교육의 주요 목표 중 하나입니다. 교육을 통해 증거를 선별하고 저울질하여 참과 거짓, 실제와 비현실, 사실과 허구를 분별할 수 있어야 합니다.
 
-The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.
+따라서 교육의 기능은 집중적으로 생각하고 비판적으로 생각하도록 가르치는 것입니다. 그러나 효율성으로 끝나는 교육은 사회에 가장 큰 위협이 될 수 있습니다. 가장 위험한 범죄자는 이성은 있지만 도덕성은 없는 사람일 수 있습니다.
 
-The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?
+내 생각에 고 유진 탈매지(Eugene Talmadge)는 조지아나 심지어 미국에서 더 나은 정신을 가진 사람 중 한 명이었습니다. 게다가 그는 Phi Beta Kappa 키를 착용했습니다. 모든 측정 막대를 통해 Talmage 씨는 비판적이고 집중적으로 생각할 수 있었습니다. 그러나 그는 내가 열등한 존재라고 주장한다. 우리가 교육을 받은 사람들이라고 부르는 유형의 사람들입니까?
 
-We must remember that intelligence is not enough. Intelligence plus character--that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.
+우리는 지능이 충분하지 않다는 것을 기억해야 합니다. 지성과 인격, 그것이 진정한 교육의 목표입니다. 완전한 교육은 집중의 힘뿐만 아니라 집중해야 할 가치 있는 목표를 제공합니다. 따라서 광범위한 교육은 인종에 대한 축적된 지식뿐만 아니라 사회 생활의 축적된 경험을 한 사람에게 전달할 것입니다.
 

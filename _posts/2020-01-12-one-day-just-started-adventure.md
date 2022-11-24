@@ -1,19 +1,20 @@
 ---
 layout: post
-title:  "One day we just started our adventure"
+title:  "어느 날 우리는 우리의 모험을 막 시작했습니다"
 author: yubin
-categories: [ Travel ]
+categories: [ 여행 ]
 image: assets/images/15.jpg
 ---
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
 
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
+다이 컷은 비청소년 영역에서도 사용되었습니다. 최근의 예는 Jonathan Safran Foer의 야심찬 Tree of Codes입니다.
+
+Charles Perrault의 고전 이야기를 이 특정 버전으로 번역한 경우 텍스트와 디자인은 초월주의 시인 Jones Very의 누이인 Lydia Very(1823-1901)의 것입니다. 빨간망토와 할머니를 갉아먹는 원본의 섬뜩한 결말은 여기에서 피하고, 고어가 도덕 이야기의 덜 피비린내 나는 목표에 자리를 내주고 어머니를 거역해서는 안 된다는 교훈을 줍니다. .
 
 
-> It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
+> 이 주장은 더 빨리 찾을 수 없기 때문에 일반적으로 다이 컷 책으로 확장될 수 있지만, 이에 대해 더 자세히 알 수 있는 정보가 있으면 댓글로 알려주세요! 물론 그러한 책은 오늘날에도 여전히 어린이 출판계에서 인기가 있습니다. 하지만 동일한 빨간망토 이야기의 아름다운 2014년 버전에서 알 수 있듯이 다이 커팅은 이제 단순한 윤곽선에 국한되지 않습니다.
 
-The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. 
+직선 형식에서 벗어난 최초의 대량 생산 책은 적어도 미국에서 이 1863년판 Red Riding Hood로 생각되며, 문제의 늑대가 발 아래에 웅크리고 있는 주인공 자신의 모습으로 잘려져 있습니다.
 
-Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
+보스턴에 기반을 둔 출판사 Louis Prang이 제작한 이 책은 모양 책으로도 알려진 다섯 권의 "다이컷" 책 세트인 "인형 시리즈"의 첫 번째 책입니다. 다른 제목은 Robinson Crusoe, Goody Two-Shoes( Red Riding Hood 작가 Lydia Very), Cinderella 및 King Winter도 작성했습니다.
 
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll... originated with us”. 
+1868년 Prang 카탈로그는 나중에 그러한 "일반 종이 인형 모양의 책이... 우리가 만든 책"이라고 주장합니다.

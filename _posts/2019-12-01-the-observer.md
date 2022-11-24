@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "The Observer - National Gallery of Art, Washington, United States"
+title:  "옵저버 - 국립 미술관, 워싱턴, 미국"
 author: yubin
-categories: [ Lifestyle ]
+categories: [ 라이프스타일 ]
 image: assets/images/1.jpg
 ---
-The National Gallery of Art, and its attached Sculpture Garden, is a national art museum in Washington, D.C., located on the National Mall, between 3rd and 9th Streets, at Constitution Avenue NW. Open to the public and free of charge, the museum was privately established in 1937 for the American people by a joint resolution of the United States Congress. Andrew W. Mellon donated a substantial art collection and funds for construction. 
+국립 미술관과 부속 조각 정원은 워싱턴 D.C.에 있는 국립 미술관으로, 3번가와 9번가 사이의 컨스티튜션 애비뉴에 위치해 있습니다. 일반에게 공개되고 무료로 제공되는 박물관은 1937년 미국 Con의 공동 결의에 의해 미국인들을 위해 개인적으로 설립되었습니다.그레스. 앤드류 W. 멜론은 상당한 양의 미술품과 건축 자금을 기부했습니다.
 
-> The core collection includes major works of art donated by Paul Mellon, Ailsa Mellon Bruce, Lessing J. Rosenwald, Samuel Henry Kress, Rush Harrison Kress, Peter Arrell Browne Widener, Joseph E. Widener, and Chester Dale. 
+> 핵심 컬렉션에는 Paul Mellon, Ailsa Mellon Bruce, Lessing J. Rosenwald, Samuel Henry Kress, Rush Harrison Kress, Peter Arrell Browne Widener, Joseph E. Widener 및 Chester Dale이 기증한 주요 예술 작품이 포함됩니다.
 
-The Gallery's collection of paintings, drawings, prints, photographs, sculpture, medals, and decorative arts traces the development of Western Art from the Middle Ages to the present, including the only painting by Leonardo da Vinci in the Americas and the largest mobile created by Alexander Calder.
+이 갤러리의 회화, 드로잉, 판화, 사진, 조각, 메달, 장식 예술의 컬렉션은 중세부터 현재까지 서양 미술의 발전을 추적하고 있는데, 여기에는 아메리카의 레오나르도 다 빈치의 유일한 그림과 알렉산더 칼더가 만든 가장 큰 모빌이 포함됩니다.
 
-The Gallery's campus includes the original neoclassical West Building designed by John Russell Pope, which is linked underground to the modern East Building, designed by I. M. Pei, and the 6.1-acre (25,000 m2) Sculpture Garden. 
+갤러리의 캠퍼스에는 존 러셀 포프가 설계한 원래의 신고전주의 양식의 웨스트 빌딩과 I. M. 페이가 설계한 현대의 이스트 빌딩과 지하로 연결된 6.1 에이커(25,000 평방 미터)의 조각 정원이 있습니다.
 
-The Gallery often presents temporary special exhibitions spanning the world and the history of art. It is one of the largest museums in North America.
+그 미술관은 종종 세계와 예술의 역사에 걸쳐 있는 임시 특별 전시회를 개최합니다. 그것은 북아메리카에서 가장 큰 박물관 중 하나입니다.

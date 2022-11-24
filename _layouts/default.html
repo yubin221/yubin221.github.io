@@ -52,6 +52,7 @@
         <h3>메뉴</h3>
         <li><a href="{{ site.baseurl }}/">홈</a></li>
         <li><a href="{{ site.baseurl }}/categories">카테고리 <span class="badge badge-primary">new</span></a></li>
+        <li><a href="{{ site.baseurl }}/tags">태그 <span class="badge badge-primary">new</span></a></li>
         <li><a href="{{ site.baseurl }}/about">블로그 소개</a></li>
         <li><a href="{{ site.baseurl }}/authors">글쓴이 소개</a></li>
         <li><a target="_blank" href="https://github.com/yubin221">깃허브</a></li>      
@@ -95,11 +96,11 @@
     <!-- Newsletter
     ================================================== -->
     <div class="newsletter text-center">
-        <span class="h4"><img src="{{ site.baseurl }}/{{ site.logo }}" class="newsletter-logo" alt="{{site.title}}"> &nbsp; Never miss a <b>story</b> from us, subscribe to our newsletter</span>
+        <span class="h4"><img src="{{ site.baseurl }}/{{ site.logo }}" class="newsletter-logo" alt="{{site.title}}"> &nbsp; <b>새로운 소식</b>을 놓치지 않고 싶다면? 뉴스레터를 구독해주세요!</span>
         <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
             <div class="mc-field-group d-inline-flex">
-            <input type="email" placeholder="Your e-mail" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on" required>
-            <input type="submit" value="Subscribe" name="subscribe" class="heart">
+            <input type="email" placeholder="이메일 주소" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on" required>
+            <input type="submit" value="구독" name="subscribe" class="heart">
             </div>
         </form>
     </div>

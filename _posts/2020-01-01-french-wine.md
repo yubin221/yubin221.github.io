@@ -1,20 +1,20 @@
 ---
 layout: post
-title:  "French Wine has to compete with many new world wines"
+title:  "프랑스 와인은 많은 새로운 세계 와인들과 경쟁해야 한다."
 author: yubin
-categories: [ Lifestyle ]
-tags: [France]
+categories: [ 라이프스타일 ]
+tags: [ 프랑스 ]
 image: assets/images/5.jpg
 ---
 
-French wine is produced all throughout France, in quantities between 50 and 60 million hectolitres per year, or 7–8 billion bottles. France is one of the largest wine producers in the world, along with Italian, Spanish, and American wine-producing regions. 
+프랑스 와인은 프랑스 전역에서 연간 5,000만 헥타르에서 6,000만 헥타르, 또는 70억에서 80억 병의 양으로 생산된다. 프랑스는 이탈리아, 스페인, 미국과 함께 세계에서 가장 큰 와인 생산지 중 하나이다.
 
-> French wine traces its history to the 6th century BC, with many of France's regions dating their wine-making history to Roman times. The wines produced range from expensive wines sold internationally to modest wines usually only seen within France such as the Margnat wines were during the post war period.
+> 프랑스 와인의 역사는 기원전 6세기로 거슬러 올라가며, 프랑스의 많은 지역들은 와인을 만드는 역사를 로마 시대로 거슬러 올라간다. 생산된 포도주는 국제적으로 판매되는 비싼 포도주부터 전후 기간 동안 마르그나트 포도주와 같은 프랑스 내에서만 주로 볼 수 있는 적당한 포도주까지 다양하다.
 
-Two concepts central to the better French wines are the notion of terroir, which links the style of the wines to the locations where the grapes are grown and the wine is made and the Appellation d'origine contrôlée (AOC) system, replaced by the Appellation d'Origin Protégée (AOP) system in 2012. 
+더 나은 프랑스 와인의 두 가지 개념은 테루아르(terroir)라는 개념인데, 테루아르는 포도를 재배하고 와인을 만드는 장소와 포도주의 스타일을 연결하고 2012년에 원산지 관리(AOC) 시스템이 대체되었다.
 
-Appellation rules closely define which grape varieties and winemaking practices are approved for classification in each of France's several hundred geographically defined appellations, which can cover regions, villages or vineyards.
+명명 규칙은 지역, 마을 또는 포도밭을 포함할 수 있는 프랑스의 수백 개의 지리적으로 정의된 각각의 명명법에서 어떤 포도 품종과 와인 제조 관행이 승인되는지를 밀접하게 정의한다.
 
-France is the source of many grape varieties (such as **Cabernet Sauvignon, Chardonnay, Pinot noir, Sauvignon blanc, Syrah**) that are now planted throughout the world, as well as wine-making practices and styles of wine that have been adopted in other producing countries. 
+프랑스는 현재 전 세계에 심어져 있는 많은 포도 품종(**카베르네 쇼비뇽, 샤르도네, 피노누아르, 쇼비뇽 블랑, 시라** 등)과 다른 생산국에서 채택된 와인 제조 관행 및 스타일의 와인의 공급원이다.
 
-Although some producers have benefited in recent years from rising prices and increased demand for some of the prestige wines from Burgundy and Bordeaux, the French wine industry has seen a decline in domestic consumption and internationally, it has had to compete with many new world wines.
+비록 일부 생산자들이 최근 몇 년간 가격 상승과 부르고뉴와 보르도의 일부 고급 와인에 대한 수요 증가로 이익을 얻었지만, 프랑스 와인 산업은 국내 소비와 국제적으로 많은 새로운 세계 와인들과 경쟁해야 했다.

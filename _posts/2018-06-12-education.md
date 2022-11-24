@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Education must also train one for quick, resolute and effective thinking."
+title:  "교육은 또한 신속하고 단호하며 효과적인 사고를 위해 훈련시켜야 한다."
 author: yubin
-categories: [ Lifestyle ]
+categories: [ 라이프스타일 ]
 image: assets/images/3.jpg
-beforetoc: "Prism highlighter is a very powerful thing. In this article I'm going to show you what you can actually do with it, some tricks and tips while editing your post. Tocs is also enabled as you can see in summary."
+beforetoc: "프리즘 형광펜은 매우 강력한 것입니다. 이 기사에서는 게시물을 편집하는 동안 실제로 수행할 수 있는 몇 가지 요령과 팁을 보여드리겠습니다. 요약에서 볼 수 있듯이 Tocs도 활성화됩니다."
 toc: true
 ---
-Memoirs theme has Prism highlighter integrated. I will show you in this post a few examples of how it looks if you are a developer planning to add pieces of code on your website.
+Memories 테마에는 Prism 형광펜이 통합되어 있습니다. 웹 사이트에 코드를 추가할 계획인 개발자의 경우 이 게시물에서 몇 가지 예를 보여드리겠습니다.
 
 
 #### HTML

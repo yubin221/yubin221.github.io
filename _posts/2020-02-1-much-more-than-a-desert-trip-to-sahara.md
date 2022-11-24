@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Much more than a desert: A trip into the Sahara"
+title:  "상상하던 사막 그 이상: 사하라 사막 여행"
 author: yubin
-categories: [ Travel ]
+categories: [ 여행 ]
 image: assets/images/16.jpg
 ---
 
-The Sahara is a desert located on the African continent. It is the largest hot desert in the world, and the third largest desert overall after Antarctica and the Arctic. Its area of 9,200,000 square kilometres (3,600,000 sq mi) is comparable to the area of China or the United States.[3] The name 'Sahara' is derived from a dialectal Arabic word for "desert", ṣaḥra (صحرا /ˈsˤaħra/).
+사하라 사막은 아프리카 대륙에 위치한 사막입니다. 그것은 세계에서 가장 큰 뜨거운 사막이며 남극과 북극에 이어 전체적으로 세 번째로 큰 사막입니다. 9,200,000 평방 킬로미터(3,600,000 sq mi)의 면적은 중국이나 미국의 면적과 비슷합니다.[3] '사하라'라는 이름은 '사막'을 뜻하는 아랍어 ṣaḥra(صحرا /ˈsˤaħra/)에서 파생되었습니다.
 
-The desert comprises much of North Africa, excluding the fertile region on the Mediterranean Sea coast, the Atlas Mountains of the Maghreb, and the Nile Valley in Egypt and Sudan. It stretches from the Red Sea in the east and the Mediterranean in the north to the Atlantic Ocean in the west, where the landscape gradually changes from desert to coastal plains. 
+사막은 지중해 연안의 비옥한 지역, 마그레브의 아틀라스 산맥, 이집트와 수단의 나일 계곡을 제외한 북아프리카의 대부분을 차지합니다. 동쪽의 홍해와 북쪽의 지중해에서 서쪽의 대서양까지 뻗어 있으며, 사막에서 해안 평야로 점차 풍경이 바뀝니다.
 
-To the south, it is bounded by the Sahel, a belt of **semi-arid tropical savanna** around the Niger River valley and the Sudan Region of Sub-Saharan Africa. The Sahara can be divided into several regions including: the western Sahara, the central Ahaggar Mountains, the Tibesti Mountains, the Aïr Mountains, the Ténéré desert, and the Libyan Desert.
+남쪽으로는 니제르 강 계곡과 사하라 사막 이남 아프리카의 수단 지역 주변의 **반건조 열대 사바나** 벨트인 사헬로 둘러싸여 있습니다. 사하라 사막은 서부 사하라, 중앙 아하가르 산맥, 티베스티 산맥, 아이르 산맥, 테네레 사막, 리비아 사막 등 여러 지역으로 나눌 수 있습니다.
 
-For several hundred thousand years, the Sahara has alternated between desert and savanna grassland in a 20,000 year cycle caused by the precession of the Earth's axis as it rotates around the Sun, which changes the location of the North African Monsoon. The area is next expected to become green in about 15,000 years (17,000 AD).
+수십만 년 동안 사하라 사막은 20,000년 주기로 사막과 사바나 초원을 번갈아 가며 태양 주위를 자전하는 지구 축의 세차 운동으로 인해 북아프리카 몬순의 위치가 바뀝니다. 이 지역은 다음으로 약 15,000년(서기 17,000년) 후에 녹색이 될 것으로 예상됩니다.

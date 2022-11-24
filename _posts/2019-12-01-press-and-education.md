@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  " Culinary Arts in Europe by Jean Anthelme Brillat-Savarin"
+title:  "Jean Anthelme Brillat-Savarin의 유럽 요리 예술"
 author: yubin
-categories: [ Lifestyle ]
+categories: [ 라이프스타일 ]
 image: assets/images/7.jpg
 ---
-The origins of culinary began with primitive humans roughly 2 million years ago. There are various theories as to how early humans used fire to cook meat. According to anthropologist Richard Wrangham, author of Catching Fire: How Cooking Made Us Human, primitive humans simply tossed a raw hunk of meat into the flames and watched it sizzle. Another theory claims humans may first have savoured roasted meat by chance when the flesh of a beast killed in a forest fire was found to be more appetizing and easier to chew and digest than the conventional raw meat.
+요리의 기원은 약 200만 년 전 원시인과 함께 시작되었습니다. 초기 인류가 고기를 요리하기 위해 불을 어떻게 사용했는지에 대한 다양한 이론이 있습니다. Catching Fire: How Cooking Made Us Human의 저자인 인류학자 Richard Wrangham에 따르면 원시인은 원시 고기 덩어리를 불 속에 던져 넣고 지글지글 끓는 것을 지켜보았습니다. 또 다른 이론은 산불로 죽은 짐승의 고기가 기존의 날고기보다 더 식욕을 돋우고 씹고 소화하기가 더 쉽다는 것이 발견되었을 때 우연히 구운 고기를 인간이 처음 맛보았을 것이라고 주장합니다.
 
-Culinary techniques improved with the introduction of earthenware and stoneware, the domestication of livestock, and advancements in agriculture. In early civilizations, the primary employers of professional chefs were kings, aristocrats, or priests. The divide between professional chefs cooking for the wealthy and peasants cooking for their families engendered the development of many cuisines.
+토기와 석기의 도입, 가축의 길들이기, 그리고 농업의 발전과 함께 요리 기술이 향상되었습니다. 초기 문명에서, 전문 요리사의 주요 고용주는 왕, 귀족 또는 성직자였습니다. 부유한 사람들을 위해 요리하는 전문 요리사와 그들의 가족을 위해 요리하는 농부들 사이의 차이는 많은 요리의 발전을 낳았습니다.
 
-A great deal of the study of Culinary Arts in Europe was organized by Jean Anthelme Brillat-Savarin, a man famous for his quote "Tell me what you eat, and I will tell you what you are," which has since been mistranslated and oversimplified into "You are what you eat." Other people helped to parse out the different parts of food science and gastronomy. Over time, increasingly deeper and more detailed studies into foods and the Culinary Arts has led to a greater wealth of knowledge.
+유럽의 많은 요리 연구는 "당신이 무엇을 먹는지 말해봐, 그러면 당신이 무엇인지 말해줄게"라는 인용구로 유명한 장 안셀메 브릴라트-사바린에 의해 조직되었는데, 그 이후로 "당신이 먹는 것은 당신이다"로 잘못 번역되고 지나치게 단순화되었습니다. 다른 사람들은 식품 과학과 미식학의 다른 부분들을 분석하는 것을 도왔습니다. 시간이 지남에 따라, 음식과 요리 예술에 대한 점점 더 깊고 상세한 연구는 더 많은 지식으로 이어졌습니다.
 
-In Asia, a similar path led to a separate study of the Culinary Arts, which later essentially merged with the Western counterpart. In the modern international marketplace, there is no longer a distinct divide between Western and Eastern foods. Culinary Arts students today, generally speaking, are introduced to the different cuisines of many different cultures from around the world.
+아시아에서, 비슷한 경로는 요리 예술에 대한 별도의 연구로 이어졌고, 그것은 나중에 본질적으로 서양의 것과 병합되었습니다. 현대의 국제 시장에서는 더 이상 서양 음식과 동양 음식 사이에 뚜렷한 차이가 없습니다. 오늘날 요리학과 학생들은, 일반적으로, 전세계의 많은 다른 문화의 다른 요리들을 소개 받습니다.
 
-The Culinary Arts, in the Western world, as a craft and later as a field of study, began to evolve at the end of the Renaissance period. Prior to this, chefs worked in castles, cooking for kings and queens, as well as their families, guests, and other workers of the castle. As Monarchical rule became phased out as a modality, the chefs took their craft to inns and hotels. From here, the craft evolved into a field of study.
+서양 세계에서 요리 예술은 공예로서, 그리고 나중에 연구 분야로서, 르네상스 시대 말에 진화하기 시작했습니다. 이것 이전에, 요리사들은 성에서 일했고, 왕과 여왕뿐만 아니라 그들의 가족, 손님, 그리고 성의 다른 일꾼들을 위해 요리했습니다. 군주제의 통치가 형식적으로 단계적으로 사라지자 요리사들은 그들의 기술을 여관과 호텔로 가져갔습니다. 여기서부터, 그 우주선은 연구 분야로 발전했습니다.
 
-Before cooking institutions, professional cooks were mentors for individual students who apprenticed under them. In 1879, the first cooking school was founded in the United States: the Boston Cooking School. This school standardized cooking practices and recipes, and laid the groundwork for the culinary arts schools that would follow.
+요리 학원 이전에, 전문 요리사들은 그들 아래서 견습생들을 위한 멘토였습니다. 1879년, 최초의 요리학교가 미국에서 설립되었습니다: 보스턴 요리학교. 이 학교는 요리 관행과 조리법을 표준화했고, 그 뒤를 이을 요리 학교들을 위한 토대를 마련했습니다.
