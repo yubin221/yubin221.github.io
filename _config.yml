@@ -1,7 +1,7 @@
 # Site
 name: "Yubin221"
 title: "Yubin221"
-description: "재능은 게임에서 이기게 한다. 그러나 팀워크는 우승을 가져온다. 이유빈의 Git Blog 입니다."
+description: "\"재능은 게임에서 이기게 한다 그러나 팀워크는 우승을 가져온다\""
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /jekyll-theme-memoirs

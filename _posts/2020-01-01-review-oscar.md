@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reviewing the best Oscar movies of all time"
-author: john
+author: yubin
 categories: [ Lifestyle ]
 tags: [Movies]
 image: assets/images/11.jpg
