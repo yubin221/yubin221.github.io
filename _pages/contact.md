@@ -5,7 +5,7 @@ permalink: /contact
 comments: false
 ---
 
-<form action="https://formspree.io/{{site.email}}" method="POST">    
+<form action="https://formspree.io/f/mjvzdgeo" method="POST">    
 <p class="mb-4">질문이나 메시지가 있다면 이 페이지를 통해 남겨주세요. 가능한 빨리 회신하겠습니다!</p>
 <div class="form-group row">
 <div class="col-md-6">

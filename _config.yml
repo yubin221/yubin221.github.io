@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 #baseurl: /jekyll-theme-memoirs
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'yubin221'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://github.us11.list-manage.com/subscribe/post?u=67502b7d925cfffc8e2bd2ecc&amp;id=7409bb7578&amp;f_id=000a9be0f0'
 include: ["_pages"]
 permalink: /:title/
 email: yu.bin@kookmin.ac.kr
