@@ -80,7 +80,7 @@ comments: true
 ## 이후 주요 커밋 기록들에 대한 요약
 1. [_config.yml 수정 및 Disqus 기능 추가 시도(Universal Code), 포스트 작성자 수정](https://github.com/yubin221/yubin221.github.io/commit/2801c4fbf4d46ec52e95db13dac1e6b9358db78f)
 2. [로컬호스트에서는 홈페이지가 정상적으로 나타나지만, Github에서는 나오지 않는 오류 수정(config.yml의 baseurl 삭제)](https://github.com/yubin221/yubin221.github.io/commit/461f1a0208b86b618c156108c18dd2ff4cc748a7)
-3. [댓글기능 업데이트 (_config.yml의 disqus란에 닉네임 기록하면 '{{site.disqus}}'로 전달 되는것을 확인하였음. 그로 인해 _includes/disqus.html에 수정했던 내용 롤백](https://github.com/yubin221/yubin221.github.io/commit/838a4d00cdd7746e2bdf2b629ceb77d697c1fc05)
+3. [댓글기능 업데이트 (_config.yml의 disqus란에 닉네임 기록하면 '{{site.disqus}}'로 전달 되는것을 확인하였음. 그로 인해 _includes/disqus.html에 수정했던 내용 롤백)](https://github.com/yubin221/yubin221.github.io/commit/838a4d00cdd7746e2bdf2b629ceb77d697c1fc05)
 4. [블로그 한글화, _config.yml 설명 변경, 로고 제작 및 로고 변경(favicon추가)](https://github.com/yubin221/yubin221.github.io/commit/17b7cf0c5f05c9bb22c6da8b8cd93ba1cc088ecd)
 5. [한글화](https://github.com/yubin221/yubin221.github.io/commit/a5c72356187e9b45e01a14bc116e54b7610a516c) 그리고 [한글화](https://github.com/yubin221/yubin221.github.io/commit/28b9bf06a37018de4e6b8e085df5a9c46c8366a5)의 [반복](https://github.com/yubin221/yubin221.github.io/commit/32fb4afea1f7fe9b83c50e9e5ff35697e5f400ec)
 6. [메일 문의와 뉴스레터 구독 기능 추가(formspree, mailchimp)](https://github.com/yubin221/yubin221.github.io/commit/f9598b5f2bdd98932c394be4f8b10c6d3b23424a)
